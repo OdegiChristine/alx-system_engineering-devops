@@ -6,4 +6,4 @@ It covers practical tasks such as creating aliases, modifying the `PATH`, listin
 
 The project also demonstrates control structures to generate combinations of letters and the use of formatting tools like `printf` to handle floating-point numbers.
 
-Overall, these exercises provide hands-on experience with variable management, process environments, arithmetic expansion, and output formatting—key building blocks for effective shell scripting.
+Overall, these exercises provide hands-on experience with variable management, process environments, arithmetic expansion, and output formatting, which are key building blocks for effective shell scripting.
