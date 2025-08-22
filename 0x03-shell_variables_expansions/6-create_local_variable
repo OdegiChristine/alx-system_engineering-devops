@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Script to create a local variable
+BEST="School"
+echo "The variables BEST is set to $BEST"

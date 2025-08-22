@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# List environment variables
+printenv
+# Alternative
+# env

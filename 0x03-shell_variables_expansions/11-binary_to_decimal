@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script that converts a binary number (from $BINARY) to decimal
+
+echo $((2#$BINARY))
