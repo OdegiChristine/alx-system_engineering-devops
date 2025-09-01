@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# script that prints the result of POWER divided by DIVIDE, followed by a new line
 echo $((POWER / DIVIDE))

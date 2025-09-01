@@ -1,5 +1,2 @@
 #!/bin/bash
-
-#Script to add 128 to environment variable TRUEKNOWLEDGE
-
 echo $((TRUEKNOWLEDGE + 128))

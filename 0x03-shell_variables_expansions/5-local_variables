@@ -1,17 +1,2 @@
 #!/bin/bash
-
-# list all local variables, environment variables, and functions
-set
-# the above lists everything the shell knows about
-
-# see them separately
-echo "=== Environment Variables ==="
 printenv
-
-echo
-echo "=== Shell Variables ==="
-(set -o posix; set) | less
-
-echo
-echo "=== Functions ==="
-declare -F
